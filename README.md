@@ -1,3 +1,4 @@
+[![CI](https://github.com/pininduwk/Multiclass-semantic-segmentation-/actions/workflows/blank.yml/badge.svg)](https://github.com/pininduwk/Multiclass-semantic-segmentation-/actions/workflows/blank.yml)
 # Multiclass semantic segmentation using DeepLabV3+
 
 ## Introduction 
